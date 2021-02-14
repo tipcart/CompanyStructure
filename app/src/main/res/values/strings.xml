@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CompanyStructure</string>
+    <string name="add_item_button">Add</string>
+    <string name="employees">Employees</string>
+    <string name="employee_id">Employee Id: %1$s</string>
+    <string name="name">Name</string>
+    <string name="add_employee">Add employee</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="all_fields_mandatory">All fields has to be filled</string>
+    <string name="search">Search</string>
+    <string name="empty_employees_list">There is no employee with this name</string>
+</resources>
